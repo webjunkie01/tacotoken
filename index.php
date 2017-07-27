@@ -162,7 +162,7 @@
 								<dt>Shop</dt>
 								<dd><a href="https://shop.spreadshirt.com/tacotoken/?noCache=true">https://shop.spreadshirt.com/tacotoken/</a></dd>
 								<dt>Address</dt>
-								<dd>0xb1657ee26f0f842c3aec75658325db2ca1f4192b </dd>
+								<dd><a title="view on etherscan.io" href="https://etherscan.io/token/0xb1657ee26f0f842c3aec75658325db2ca1f4192b">0xb1657ee26f0f842c3aec75658325db2ca1f4192b</a> </dd>
 							</dl>
 							<ul class="icons">
 								<li><a href="https://twitter.com/tacotoken" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
