@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Chalkboard SE';
+    src: url('ChalkboardSE-Regular.eot');
+    src: url('ChalkboardSE-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ChalkboardSE-Regular.woff2') format('woff2'),
+        url('ChalkboardSE-Regular.woff') format('woff'),
+        url('ChalkboardSE-Regular.svg#ChalkboardSE-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chalkboard SE';
+    src: url('ChalkboardSE-Bold.eot');
+    src: url('ChalkboardSE-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ChalkboardSE-Bold.woff2') format('woff2'),
+        url('ChalkboardSE-Bold.woff') format('woff'),
+        url('ChalkboardSE-Bold.svg#ChalkboardSE-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chalkboard SE';
+    src: url('ChalkboardSE-Light.eot');
+    src: url('ChalkboardSE-Light.eot?#iefix') format('embedded-opentype'),
+        url('ChalkboardSE-Light.woff2') format('woff2'),
+        url('ChalkboardSE-Light.woff') format('woff'),
+        url('ChalkboardSE-Light.svg#ChalkboardSE-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
